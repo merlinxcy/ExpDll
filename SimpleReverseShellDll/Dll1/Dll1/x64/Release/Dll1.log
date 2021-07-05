@@ -1,0 +1,11 @@
+﻿D:\Softwares\VStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(Dll1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  Dll1.cpp
+  dllmain.cpp
+C:\Users\xuchenyi-steven\source\repos\Dll1\Dll1\dllmain.cpp(27,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 C:\Users\xuchenyi-steven\source\repos\Dll1\x64\Release\Dll1.lib 和对象 C:\Users\xuchenyi-steven\source\repos\Dll1\x64\Release\Dll1.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dll1.vcxproj -> C:\Users\xuchenyi-steven\source\repos\Dll1\x64\Release\Dll1.dll
